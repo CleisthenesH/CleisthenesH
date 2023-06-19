@@ -24,10 +24,7 @@ At the time of writing I have three main repos.
 1. :goat: [Yet Another Lua Engine](https://github.com/CleisthenesH/YALE) is a GUI widget engine and whose abbreviation is where I get my avatar from.
 2. :lock: [Rijndael-Field-Hashing](https://github.com/CleisthenesH/Rijndael-Field-Hashing) is the application and pedagogical documentation of finite field theory to hashing.
 3. :brain: [Neural-Networks](https://github.com/CleisthenesH/Neural-Networks) is the same as Rijndael but with Neural Networks.
-
-## Living Documents (Permanently unfinished notes)
-1. :heavy_plus_sign: [Math-Notes](https://github.com/CleisthenesH/Math-Notes) is an eclectic collection of math snippets I found cool enough to write down.
-2. :ocean: [Fourier-Notes](https://github.com/CleisthenesH/Fourier-Notes) are notes specifically related to the Fourier Transform and is made with more readability in mind.
+4. :heavy_plus_sign: [Math-Notes](https://github.com/CleisthenesH/Math-Notes) is a collection living math documents (permanently unfinished) that detail stuff I found interesting enough to write down.
 
 Other repos exist at various levels of completion and commitment on my end.
 <!--

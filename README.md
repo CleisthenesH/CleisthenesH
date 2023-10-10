@@ -20,7 +20,7 @@ The Yale is a mythical goat like creature with an additional pair of tusks and h
 I just think they're neat and have adopted this one in particular as my avatar.
 #  Repos Summary :octocat:
 At the time of writing I have four main repos.
-1. :goat: [Yet Another Lua Engine](https://github.com/CleisthenesH/YALE) is a GUI widget engine and whose abbreviation is where I get my avatar from.
+1. :goat: [Yet Another Lua Engine](https://github.com/CleisthenesH/YALE-JIT) is a GUI widget engine and whose abbreviation is where I get my avatar from.
 2. :lock: [Rijndael-Field-Hashing](https://github.com/CleisthenesH/Rijndael-Field-Hashing) is the application and pedagogical documentation of finite field theory to hashing.
 3. :brain: [Neural-Networks](https://github.com/CleisthenesH/Neural-Networks) is the same as Rijndael but with Neural Networks.
 4. :heavy_plus_sign: [Math-Notes](https://github.com/CleisthenesH/Math-Notes) is a collection living math documents (permanently unfinished) that detail stuff I found interesting enough to write down.
